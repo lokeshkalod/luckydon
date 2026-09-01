@@ -9,7 +9,7 @@
 
   "Telegram": {
     "enabled": true,
-    "bot_token": "8848344387:AAEJaqzP3OBLXzvhfXDs02uhhzlcoQhCvqE",
+    "bot_token": "7610964476:AAFc4rytiignQ_mDZtgBaHKwgWRRQWsFv5s",
     "chat_id": "7440119962",
     "allowed_users": [7440119962]
   },
@@ -38,7 +38,7 @@
   "Accounts": [
     {
       "alias": "Main Account",
-      "token": "392000427|frngPl9gm5sKHkNb3CKIjxKu484ErZOT0tMUiv31",
+      "token": "422653938|eImpORrByFlxPNLGspePxdS3tMcVHHRiCCTajehu",
       "proxy": null,
       "streamers": ["ritikjain360", "nonstopgaming", "tsg_legend"],
       "max_concurrent": 2
